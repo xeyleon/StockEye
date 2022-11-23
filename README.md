@@ -1,3 +1,4 @@
 # StockEye
+A Twitter sentiment analysis web application
 
-## Twitter sentiments analysis web application
+[Documentation](stocksense.github.io)
